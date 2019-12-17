@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>holoROSunity_v2</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\cps\Desktop\sdsdsd\82\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\cps\Downloads\ros-sharp-UWP (8)\ros-sharp-UWP\holoROSunity_v2\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Hub\Editor\2018.3.14f1\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>

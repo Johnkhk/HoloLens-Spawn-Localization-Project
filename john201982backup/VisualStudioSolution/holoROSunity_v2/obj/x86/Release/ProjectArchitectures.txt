@@ -1,0 +1,8 @@
+C:\Users\cps\Desktop\sdsdsd\82\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\cps\Desktop\sdsdsd\82\GeneratedProjects\UWP\Unity.Analytics.DataPrivacy\Unity.Analytics.DataPrivacy.csproj;x86
+C:\Users\cps\Desktop\sdsdsd\82\GeneratedProjects\UWP\Unity.Analytics.DataPrivacy\Unity.Analytics.DataPrivacy.csproj;x86
+C:\Users\cps\Desktop\sdsdsd\82\GeneratedProjects\UWP\Unity.TextMeshPro\Unity.TextMeshPro.csproj;x86
+C:\Users\cps\Desktop\sdsdsd\82\GeneratedProjects\UWP\Unity.TextMeshPro\Unity.TextMeshPro.csproj;x86
+C:\Users\cps\Desktop\sdsdsd\82\GeneratedProjects\UWP\Unity.XR.WindowsMR\Unity.XR.WindowsMR.csproj;x86
+C:\Users\cps\Desktop\sdsdsd\82\GeneratedProjects\UWP\Unity.XR.WindowsMR\Unity.XR.WindowsMR.csproj;x86
+C:\Users\cps\Desktop\sdsdsd\82\holoROSunity_v2\holoROSunity_v2.csproj;x86
